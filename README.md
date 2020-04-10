@@ -9,7 +9,7 @@ This program inputs a FASTQ file as well as the input format and the desired
 output format. Inputs and outputs must be entered exactly as listed below
 (see input options and output options). Basically, this program converts the
 FASTQ file inputted by the user into either Phred64 or Phred33 format, depending
-on what the user desires. THIS PROGRAM IS NOT A COMMAND LINE PROGRAM.
+on what the user desires.
 
 Input options:
 Phred33
