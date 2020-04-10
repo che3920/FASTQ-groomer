@@ -27,3 +27,5 @@ The program itself is called groomer.py but requires the FastQreader.py in the s
 
 If the user is not familiar with FASTQ format, the website below can explain it. 
 https://en.wikipedia.org/wiki/FASTQ_format
+
+This program was made with assistance from David Bernick.
